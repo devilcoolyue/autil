@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aesutil/aes"
 	"flag"
+	"github.com/devilcoolyue/autil/aes"
 	log "github.com/sirupsen/logrus"
 	"os"
 )
