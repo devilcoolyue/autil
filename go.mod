@@ -1,4 +1,4 @@
-module aesutil
+module github.com/devilcoolyue/autil
 
 go 1.22
 
